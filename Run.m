@@ -1,0 +1,10 @@
+clear all;
+run('.\1\generate_DOAs.m')
+run('.\2\generate_DOAs.m')
+run('.\3\generate_DOAs.m')
+run('.\4\generate_DOAs.m')
+run('.\5\generate_DOAs.m')
+run('.\6\generate_DOAs.m')
+run('.\7\generate_DOAs.m')
+run('.\8\generate_DOAs.m')
+run('data_together.m')
